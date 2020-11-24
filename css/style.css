@@ -720,6 +720,20 @@ b, strong { font-weight: bold; }
 	/*---------------------------------------------------
 			3.5 Works
 	---------------------------------------------------*/
+
+	/* The below selector is a test */
+
+	img .item {
+		cursor: pointer;
+		transition: 0.3s;
+		
+	img .item:hover {
+		opacity: 0.7;
+	}
+		
+		
+	/* The above selector is a test */
+		
 	
 	#works .item { margin-bottom: 40px; }
 
