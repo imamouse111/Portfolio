@@ -143,7 +143,10 @@ b, strong { font-weight: bold; }
 
 
 	/* Used to remove whitespace below an image */
-	.remove-line-height { line-height: 0; }
+	.remove-line-height {
+		line-height: 0;
+		color: black;
+	}
 
 
 
