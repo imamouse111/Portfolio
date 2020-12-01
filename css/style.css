@@ -143,7 +143,10 @@ b, strong { font-weight: bold; }
 
 
 	/* Used to remove whitespace below an image */
-	.remove-line-height { line-height: 0; }
+	.remove-line-height {
+		line-height: 0;
+		color: black;
+	}
 
 
 
@@ -717,6 +720,7 @@ b, strong { font-weight: bold; }
 	/*---------------------------------------------------
 			3.5 Works
 	---------------------------------------------------*/
+		
 	
 	#works .item { margin-bottom: 40px; }
 
@@ -802,7 +806,7 @@ b, strong { font-weight: bold; }
 			box-sizing: border-box;
 		}
 			
-			#works.stackgrid.images-only .item .box-desc h3 { color: #ffffff; text-shadow: 0px 0px 6px rgba(255, 255, 255, 0.8) }
+			#works.stackgrid.images-only .item .box-desc h3 { color: #ffffff; }
 
 		#works.stackgrid.images-only .nav-pages { margin-top: 0; }
 
