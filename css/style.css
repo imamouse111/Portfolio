@@ -766,6 +766,7 @@ b, strong { font-weight: bold; }
 			width: 100%;
 			object-fit: cover;
 			opacity: 1;
+			transition-duration: 200ms;
 		}
 
 		#works.stackgrid .item:hover img {
