@@ -42,7 +42,7 @@ $(document).ready(function(){
 	}, function () {
 		$(this).find('.box-desc').stop().fadeOut();
 	});
-	
+
 
 	// initialize typeMenu
 	// this plugin was specifically written for Typefolio
