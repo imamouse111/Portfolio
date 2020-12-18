@@ -770,7 +770,7 @@ b, strong { font-weight: bold; }
 
 		#works.stackgrid .item:hover img {
 			position: relative;
-			opacity: 0.7;
+			opacity: 0.5;
 		}
 
 
