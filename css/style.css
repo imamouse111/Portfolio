@@ -287,17 +287,17 @@ b, strong { font-weight: bold; }
 		input[type=password]:focus, 
 		textarea:focus,
 		select:focus {
-			color: #e0cd00;
+			color: #111;
 			border: 1px solid #e0cd00;
 		}
 
 
 
 	/* Placeholder */
-	::-webkit-input-placeholder { color: #ddd; }
-	::-moz-placeholder { color: #ddd; }
-	:-ms-input-placeholder { color: #ddd; }
-	input:-moz-placeholder { color: #ddd; }
+	::-webkit-input-placeholder { color: #555; }
+	::-moz-placeholder { color: #555; }
+	:-ms-input-placeholder { color: #555; }
+	input:-moz-placeholder { color: #555; }
 
 
 
