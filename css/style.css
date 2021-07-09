@@ -294,10 +294,10 @@ b, strong { font-weight: bold; }
 
 
 	/* Placeholder */
-	::-webkit-input-placeholder { color: #555; }
-	::-moz-placeholder { color: #555; }
-	:-ms-input-placeholder { color: #555; }
-	input:-moz-placeholder { color: #555; }
+	::-webkit-input-placeholder { color: #D3D3D3; }
+	::-moz-placeholder { color: #D3D3D3; }
+	:-ms-input-placeholder { color: #D3D3D3; }
+	input:-moz-placeholder { color: #D3D3D3; }
 
 
 
